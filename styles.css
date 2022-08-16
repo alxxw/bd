@@ -1,86 +1,83 @@
 svg {
-    color: #03dac6 !important;
+  color: #03dac6 !important;
 }
 
 svg:hover {
-    color: #8cfafa !important;
-    transition: 0.25s ease-in-out;
+  color: #8cfafa !important;
+  transition: 0.25s ease-in-out;
 }
 
 .primary-colour {
-    color: #bb86fc !important;
+  color: #bb86fc !important;
 }
 
 .nav-item:hover {
-    color: #cfabfa !important;
-    transition: 0.25s ease-in-out;
+  color: #cfabfa !important;
+  transition: 0.25s ease-in-out;
 }
 
 .primary-variant {
-    color: #3700b3;
+  color: #3700b3;
 }
 
 .secondary-color {
-    color: #aa1fb4 !important;
+  color: #aa1fb4 !important;
 }
 
 .background-color {
-    color: #121212;
+  color: #121212;
 }
 
 .gm-text {
-    font-weight: 500;
-    font-size: xx-large;
-    color: lightgrey;
+  font-weight: 500;
+  font-size: xx-large;
+  color: lightgrey;
 }
 
 .nametag {
-    bottom: 0;
-    right: 0;
-    margin: 0 40px 30px 0;
-    font-weight: 500;
-    font-size: 5nm;
-    position: absolute;
-    text-align: center;
+  bottom: 0;
+  right: 0;
+  margin: 0 40px 30px 0;
+  font-weight: 500;
+  font-size: 5nm;
+  position: absolute;
+  text-align: center;
 }
 
-
-
 .centered {
-    position: fixed;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -100%);
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -100%);
 }
 
 .about-page {
-    background: linear-gradient(rgba(0, 0, 0, 0.70), rgba(0, 0, 0, 0.70)),
-        url(https://i.ytimg.com/vi/uPbgxd9CujU/maxresdefault.jpg);
-    background-size: cover;
-    height: 100vh;
-    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  background: linear-gradient(rgba(0, 0, 0, 0.77), rgba(0, 0, 0, 0.77)),
+    url(https://i.ytimg.com/vi/uPbgxd9CujU/maxresdefault.jpg);
+  background-size: cover;
+  height: 100vh;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
 }
 
-
 ::marker {
-    unicode-bidi: isolate;
-    font-variant-numeric: tabular-nums;
-    text-transform: none;
-    text-indent: 0px !important;
-    text-align: start !important;
-    text-align-last: start !important;
+  unicode-bidi: isolate;
+  font-variant-numeric: tabular-nums;
+  text-transform: none;
+  text-indent: 0px !important;
+  text-align: start !important;
+  text-align-last: start !important;
 }
 
 .api-check {
-    bottom: 0;
-    left: 0;
-    margin: 0 40px 30px 40px;
-    position: absolute;
-    text-align: center;
+  bottom: 0;
+  left: 0;
+  margin: 0 40px 30px 40px;
+  position: absolute;
+  text-align: center;
 }
 
 img {
-    padding-left: 2rem;
-    padding-top: 2rem;
-    max-height: 15vh;
+  padding-left: 2rem;
+  padding-top: 2rem;
+  max-height: 15vh;
 }
