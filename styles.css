@@ -52,8 +52,7 @@ svg:hover {
 }
 
 .about-page {
-  background: linear-gradient(rgba(0, 0, 0, 0.77), rgba(0, 0, 0, 0.77)),
-    url(https://i.ytimg.com/vi/uPbgxd9CujU/maxresdefault.jpg);
+  background: url(./page.png);
   background-size: cover;
   height: 100vh;
   font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
